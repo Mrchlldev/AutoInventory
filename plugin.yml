@@ -1,0 +1,7 @@
+name: AutoInventory
+description: "If player destroy or kill entity, automatic added on player inventory"
+api: 5.0.0
+version: 1.0.0
+author: Mrchlldev
+main: Mrchlldev\AutoInventory\Loader
+src-namespace-prefix: Mrchlldev\AutoInventory
